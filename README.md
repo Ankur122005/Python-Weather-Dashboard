@@ -34,7 +34,7 @@ Ensure you have Python installed on your system. You will also need an active in
 
 ### **1\. Clone or Download the Repository**
 
-Download the Python script (e.g., weather\_app.py) and place it in a project folder.
+Download the Python script (e.g., CODE.py) and place it in a project folder.
 
 ### **2\. Install Dependencies**
 
