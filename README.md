@@ -79,8 +79,8 @@ python CODE.py
 5. To close the application, you will need to use your system's standard method for exiting full-screen applications (e.g., Alt+F4 or moving the mouse to the top of the screen to reveal window controls).
 
 ## **Screenshots**
-![](image/Screenshot 2025-11-22 214931.png)
-![](image/Screenshot 2025-11-22 215139.png)
-![](image/Screenshot 2025-11-22 215245.png)
-![](image/Screenshot 2025-11-22 215432.png)
-![](image/Screenshot 2025-11-23 112130.png)
+![](image/Screenshot%202025-11-22%20214931.png)
+![](image/Screenshot%202025-11-22%20215139.png)
+![](image//Screenshot%202025-11-22%20215245.png)
+![](image/Screenshot%202025-11-22%20215432.png)
+![](image/Screenshot%202025-11-23%20112130.png)
